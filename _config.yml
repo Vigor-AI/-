@@ -3,5 +3,4 @@ theme: jekyll-theme-merlot
 site:
   title: Vigor
   description: Description
-  github:
-    project_tagline: Tag_line
+
