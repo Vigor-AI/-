@@ -1,29 +1,23 @@
-## Welcome to GitHub Pages
+## 万古深度科技有限公司
 
-You can use the [editor on GitHub](https://github.com/Vigor-AI/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+致力于利用深度学习技术为企业提供完善的解决方案
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 人员架构
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+公司的核心成员由四位在技术领域深耕多年的专家构成。
 
 ```markdown
-Syntax highlighted code block
+成员简介
 
-# Header 1
-## Header 2
-### Header 3
+## CTO.Gao
+### Object Recgnition
+# CTO.Li
+### Database, Distribution servers
+# CTO.Wang
+### Embedded Development
+# CTO.Bi
+### Nothing he can't do
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
