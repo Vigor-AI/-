@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+
+webrick:
+  headers:
+    My-Header: Vigor-AI
